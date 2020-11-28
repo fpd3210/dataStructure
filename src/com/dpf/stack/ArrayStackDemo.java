@@ -172,9 +172,6 @@ class LinkedStack{
         }
     }
 
-
-
-
 }
 
 class LinkedNode{
